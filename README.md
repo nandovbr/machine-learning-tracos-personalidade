@@ -1,4 +1,4 @@
-# Projeto Big Five Machine Learning (Aprendizado de Máquina)
+# Projeto Big Five Machine Learning
 
 Projeto prático de Ciência de Dados com intuito de aprimorar meu aprendizado prático em Machine Learning, tratamento dos dados, clusterização e uso de algumas bibliotecas.
 
