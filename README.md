@@ -1,6 +1,6 @@
 # Projeto Big Five Machine Learning
 
-Projeto prático de Ciência de Dados com intuito de aprimorar meu aprendizado prático em Machine Learning, tratamento dos dados, clusterização e uso de algumas bibliotecas.
+Análise e clusterização de respostas similares para cada tipo de personalidade baseado em algumas milhões de respostas de pessoas diferentes sobre as 5 principais personalidades humanas.
 
 Big Five: conheça a metodologia e suas 5 dimensões
 A personalidade humana é desafiadora e intrigante, estimulando muitos especialistas a buscarem meios para decifrá-la. Foi a partir disso que surgiu a metodologia Big Five, que reúne um conjunto de fatores independentes para identificar o perfil de cada pessoa.
